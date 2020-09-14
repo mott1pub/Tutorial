@@ -4,6 +4,6 @@ Build a Small Web App..
 
 Add some web text info..
 
-Add some additional Text..
+Add some addtional info..
 
-Adding 3 Addtional Text
+3rd Text 
